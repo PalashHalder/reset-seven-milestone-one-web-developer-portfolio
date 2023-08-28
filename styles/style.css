@@ -124,13 +124,27 @@ nav a{
 
 
 /* ==========main section starts========== */
+main{
+    max-width: 1140px;margin: 0 auto;
+
+}
 
 /* ==========About Me========== */
 .about{
+    text-align: center;
     padding: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     margin: 130px 0px;
+}
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
 }
 
 
