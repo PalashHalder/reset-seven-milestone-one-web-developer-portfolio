@@ -214,4 +214,15 @@ main section{
 
 
 
+/* ==========footer Style========== */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 230px;
+}
+
+
+
+
 
